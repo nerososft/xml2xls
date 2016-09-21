@@ -1,0 +1,21 @@
+<?java.xml version="1.0" encoding="UTF-8" ?>
+<genes>
+    <gene>
+        <id>001</id>
+        <name>gene1</name>
+        <value>1</value>
+        <property>这是基因gene1的描述</property>
+    </gene>
+    <gene>
+        <id>002</id>
+        <name>gene2</name>
+        <value>1</value>
+        <property>这是基因gene2的描述</property>
+    </gene>
+    <gene>
+        <id>003</id>
+        <name>gene3</name>
+        <value>1</value>
+        <property>这是基因gene3的描述</property>
+    </gene>
+</genes>

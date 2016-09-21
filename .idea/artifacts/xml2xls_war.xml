@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xml2xls:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="xml2xls-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xml2xls:war exploded" />
+    </root>
+  </artifact>
+</component>
